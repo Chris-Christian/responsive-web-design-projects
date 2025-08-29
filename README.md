@@ -7,3 +7,4 @@ These projects demonstrate the use of **HTML** and **CSS** to create responsive 
 
 ## 📂 Projects Included
 1. **Cat Photo App**
+2. 
