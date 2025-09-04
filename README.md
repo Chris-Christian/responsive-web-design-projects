@@ -7,7 +7,7 @@ These projects demonstrate the use of **HTML** and **CSS** to create responsive 
 
 ## 📂 Projects Included
 1. **Cat Photo App**
-2. 
+2. **Cafe Menu**
 
 ---
 > 📌 Note: This repository is a **work in progress**. More projects will be added as I complete them.
